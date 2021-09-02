@@ -2,10 +2,11 @@
 
 A Weather App is developed to display the weather for my current location.
 The following are weather conditions are also displayed on selecting my location -
-#. Sunrise
-#. Sunset
-#. Humidity
-#. Visibility
+
+  #. Sunrise
+  #. Sunset
+  #. Humidity
+  #. Visibility
 
 The application is developed using HTML, CSS, Javascript. 
 
