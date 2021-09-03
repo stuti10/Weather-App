@@ -1,8 +1,3 @@
-// Tutorial by http://youtube.com/CodeExplained
-// api key : 82005d27a116c2880c8f0fcb866998a0
-// Tutorial by http://youtube.com/CodeExplained
-// api key : 82005d27a116c2880c8f0fcb866998a0
-
 // SELECT ELEMENTS
 const tempElement = document.querySelector(".temperature-value p");
 const locationElement = document.querySelector(".location p");
@@ -20,8 +15,7 @@ const KELVIN = 273;
 // API KEY
 const key = "e6549292cff804ad57f1167203581d2d";
 //https://api.openweathermap.org/data/2.5/weather?id=6167865&appid=e6549292cff804ad57f1167203581d2d
-//London 2648110
-//Berlin 2950158
+
 // CHECK IF BROWSER SUPPORTS GEOLOCATION
 if('geolocation' in navigator){
     navigator.geolocation.getCurrentPosition(setPosition, showError);
